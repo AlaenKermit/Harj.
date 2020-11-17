@@ -1,2 +1,2 @@
 # Harj.
-väga kurb
+versioonihalduse harjutamine :(
