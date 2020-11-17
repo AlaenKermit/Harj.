@@ -1,2 +1,6 @@
 github on äge koodirepositoorium kuid seda saab ka teisteks asjadeks kasutada & seda kasutavad peamiselt programmeerijad
 saan kasutada githubi nt windowsi operatsioonisüsteemide ad user skripti kirjutamisel või programmeerimise tundides
+
+
+git asutati aastal 2005 linus torvaldsi poolt et linuxi haldamine oleks kergem globaalselt või muud sellist
+github tuli siis välja aastal 2008 kuna jah ägedad asjad
