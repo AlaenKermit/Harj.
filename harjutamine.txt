@@ -1,1 +1,2 @@
 github on äge koodirepositoorium kuid seda saab ka teisteks asjadeks kasutada & seda kasutavad peamiselt programmeerijad
+saan kasutada githubi nt windowsi operatsioonisüsteemide ad user skripti kirjutamisel või programmeerimise tundides
